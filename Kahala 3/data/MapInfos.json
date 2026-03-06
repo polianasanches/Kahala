@@ -1,11 +1,11 @@
 [
 null,
 null,
-{"id":2,"expanded":true,"name":"Parque","order":1,"parentId":0,"scrollX":1238,"scrollY":700,"quick":false},
+{"id":2,"expanded":true,"name":"Parque","order":1,"parentId":0,"scrollX":825.3333333333334,"scrollY":466.6666666666667,"quick":false},
 {"id":3,"expanded":true,"name":"Casa Abandonada","order":3,"parentId":2,"scrollX":827.3333333333334,"scrollY":490,"quick":false},
-{"id":4,"expanded":true,"name":"Cidade 4","order":5,"parentId":0,"scrollX":1204,"scrollY":1352,"quick":false},
+{"id":4,"expanded":true,"name":"Cidade 4","order":5,"parentId":0,"scrollX":1203.4285714285713,"scrollY":1352.5714285714284,"quick":false},
 {"id":5,"expanded":false,"name":"Casa 1","order":2,"parentId":2,"scrollX":676.909090909091,"scrollY":409.6363636363636,"quick":false},
-{"id":6,"expanded":false,"name":"Loja de Itens","order":6,"parentId":4,"scrollX":827.3333333333334,"scrollY":490,"quick":false},
+{"id":6,"expanded":false,"name":"Loja de Itens","order":6,"parentId":4,"scrollX":1061.142857142857,"scrollY":586.2857142857142,"quick":false},
 {"id":7,"expanded":false,"name":"Bar","order":7,"parentId":4,"scrollX":1489.2,"scrollY":901.1999999999999,"quick":false},
 {"id":8,"expanded":false,"name":"Café","order":8,"parentId":4,"scrollX":1489.2,"scrollY":901.1999999999999,"quick":false},
 {"id":9,"expanded":true,"name":"Rua Comercial Local","order":9,"parentId":0,"scrollX":529.7142857142857,"scrollY":579.4285714285714,"quick":false},
@@ -22,5 +22,5 @@ null,
 {"id":20,"expanded":true,"name":"entrada do bunker","order":20,"parentId":17,"scrollX":0,"scrollY":0,"quick":false},
 {"id":21,"expanded":true,"name":"acesso ao bunker","order":21,"parentId":17,"scrollX":1061.142857142857,"scrollY":1080,"quick":false},
 {"id":22,"expanded":false,"name":"bunker","order":22,"parentId":17,"scrollX":1061.142857142857,"scrollY":600,"quick":false},
-{"id":23,"expanded":true,"name":"Parque destruído","order":4,"parentId":2,"scrollX":1063.7142857142856,"scrollY":643.7142857142857,"quick":false}
+{"id":23,"expanded":true,"name":"Parque destruído","order":4,"parentId":2,"scrollX":1061.142857142857,"scrollY":600,"quick":false}
 ]
