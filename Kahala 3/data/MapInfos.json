@@ -1,14 +1,14 @@
 [
 null,
 null,
-{"id":2,"expanded":true,"name":"Parque","order":1,"parentId":0,"scrollX":684,"scrollY":550.9090909090909,"quick":false},
-{"id":3,"expanded":true,"name":"Casa Abandonada","order":3,"parentId":2,"scrollX":675.2727272727273,"scrollY":381.8181818181818,"quick":false},
-{"id":4,"expanded":true,"name":"Cidade 4","order":5,"parentId":0,"scrollX":1350.5454545454545,"scrollY":763.6363636363636,"quick":false},
-{"id":5,"expanded":false,"name":"Casa 1","order":2,"parentId":2,"scrollX":684,"scrollY":386.1818181818182,"quick":false},
-{"id":6,"expanded":false,"name":"Loja de Itens","order":6,"parentId":4,"scrollX":1061.142857142857,"scrollY":586.2857142857142,"quick":false},
+{"id":2,"expanded":true,"name":"Parque","order":1,"parentId":0,"scrollX":675.2727272727273,"scrollY":381.8181818181818,"quick":false},
+{"id":3,"expanded":true,"name":"Casa Abandonada","order":3,"parentId":2,"scrollX":675.2727272727273,"scrollY":386.1818181818182,"quick":false},
+{"id":4,"expanded":true,"name":"Cidade 4","order":5,"parentId":0,"scrollX":928.5,"scrollY":684,"quick":false},
+{"id":5,"expanded":false,"name":"Casa 1","order":2,"parentId":2,"scrollX":675.2727272727273,"scrollY":386.1818181818182,"quick":false},
+{"id":6,"expanded":false,"name":"Loja de Itens","order":6,"parentId":4,"scrollX":816,"scrollY":624,"quick":false},
 {"id":7,"expanded":false,"name":"Bar","order":7,"parentId":4,"scrollX":1489.2,"scrollY":901.1999999999999,"quick":false},
-{"id":8,"expanded":false,"name":"Café","order":8,"parentId":4,"scrollX":675.2727272727273,"scrollY":381.8181818181818,"quick":false},
-{"id":9,"expanded":true,"name":"Rua Comercial Local","order":9,"parentId":0,"scrollX":619,"scrollY":350,"quick":false},
+{"id":8,"expanded":false,"name":"Café","order":8,"parentId":4,"scrollX":507,"scrollY":338,"quick":false},
+{"id":9,"expanded":true,"name":"Rua Comercial Local","order":9,"parentId":0,"scrollX":535.5,"scrollY":507,"quick":false},
 {"id":10,"expanded":false,"name":"Rodovia","order":10,"parentId":0,"scrollX":675.2727272727273,"scrollY":381.8181818181818,"quick":false},
 {"id":11,"expanded":true,"name":"Escola","order":11,"parentId":0,"scrollX":1238,"scrollY":700,"quick":false},
 {"id":12,"expanded":false,"name":"Hospital 1 Andar","order":12,"parentId":11,"scrollX":1074.857142857143,"scrollY":870.8571428571428,"quick":false},
@@ -22,5 +22,5 @@ null,
 {"id":20,"expanded":true,"name":"entrada do bunker","order":20,"parentId":17,"scrollX":0,"scrollY":0,"quick":false},
 {"id":21,"expanded":true,"name":"acesso ao bunker","order":21,"parentId":17,"scrollX":1061.142857142857,"scrollY":1080,"quick":false},
 {"id":22,"expanded":false,"name":"bunker","order":22,"parentId":17,"scrollX":1061.142857142857,"scrollY":600,"quick":false},
-{"id":23,"expanded":true,"name":"Parque destruído","order":4,"parentId":2,"scrollX":675.2727272727273,"scrollY":628.3636363636364,"quick":false}
+{"id":23,"expanded":true,"name":"Parque destruído","order":4,"parentId":2,"scrollX":836,"scrollY":674.6666666666666,"quick":false}
 ]
