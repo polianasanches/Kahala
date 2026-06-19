@@ -25,6 +25,6 @@ null,
 {"id":23,"expanded":true,"name":"Jardim destruído","order":4,"parentId":2,"scrollX":614,"scrollY":539,"quick":false},
 {"id":24,"expanded":true,"name":"Depósito 1","order":17,"parentId":1,"scrollX":736.8,"scrollY":453.59999999999997,"quick":false},
 {"id":25,"expanded":true,"name":"Depósito 2","order":18,"parentId":1,"scrollX":614,"scrollY":513,"quick":false},
-{"id":26,"expanded":false,"name":"Depósito 3","order":19,"parentId":1,"scrollX":614,"scrollY":513,"quick":false},
-{"id":27,"expanded":false,"name":"Depósito 4","order":20,"parentId":1,"scrollX":736.8,"scrollY":453.59999999999997,"quick":false}
+{"id":26,"expanded":false,"name":"Depósito 3","order":19,"parentId":1,"scrollX":736.8,"scrollY":453.59999999999997,"quick":false},
+{"id":27,"expanded":false,"name":"Depósito 4","order":20,"parentId":1,"scrollX":736.8,"scrollY":410.4,"quick":false}
 ]
