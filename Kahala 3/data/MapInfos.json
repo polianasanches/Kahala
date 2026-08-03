@@ -27,5 +27,5 @@ null,
 {"id":25,"expanded":true,"name":"Quarto 1 andar","order":22,"parentId":18,"scrollX":825,"scrollY":500,"quick":false},
 {"id":26,"expanded":false,"name":"Depósito 3","order":18,"parentId":1,"scrollX":928.5,"scrollY":525,"quick":false},
 {"id":27,"expanded":false,"name":"Depósito 4","order":19,"parentId":1,"scrollX":764.7272727272727,"scrollY":490.90909090909093,"quick":false},
-{"id":28,"expanded":true,"name":"Quarto 2 andar","order":24,"parentId":19,"scrollX":1238,"scrollY":700,"quick":false}
+{"id":28,"expanded":true,"name":"Quarto 2 andar","order":24,"parentId":19,"scrollX":1254,"scrollY":684,"quick":false}
 ]
